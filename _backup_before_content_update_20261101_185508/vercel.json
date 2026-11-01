@@ -1,0 +1,14 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": false }
+  ],
+  "headers": [
+    {
+      "source": "/(about|contact|legal)",
+      "headers": [
+        { "key": "Content-Type", "value": "text/html; charset=utf-8" }
+      ]
+    }
+  ]
+}
