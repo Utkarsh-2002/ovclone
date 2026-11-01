@@ -1,2 +1,21 @@
-User-Agent: *
-Disallow:
+User-agent: *
+Allow: /
+
+# AI answer engines - crawl for live answers and citations
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Sitemap location
+Sitemap: https://dotstory.io/sitemap.xml
