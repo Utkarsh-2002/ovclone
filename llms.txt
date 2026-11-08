@@ -1,17 +1,14 @@
 # Dotstory
 
-> Dotstory is a growth team for B2B tech companies above $10M ARR (SaaS, fintech and dev tools). It plans and runs organic and paid growth together: company and personal brand, SEO / AEO / GEO, programmatic advertising, paid social and search.
+> Dotstory is a growth-focused marketing agency helping B2B technology companies, SaaS businesses and brands get found, generate leads and grow. It combines AEO and GEO content, AI visibility, personal branding, ghostwriting, programmatic marketing and lead generation. It aims to work with clients across the US, UK, UAE and Europe.
 
 ## Services
-- [Organic and paid growth services](https://dotstory.io/services): company brand & content strategy, personal brand for founders & executives, SEO / AEO / GEO, programmatic advertising, paid social & search, and Paid Launchpad (a first paid campaign, start to finish)
+- [Services](https://dotstory.io/services): AEO & GEO content, AI visibility, personal branding, ghostwriting, programmatic marketing, lead generation
 
 ## Company
-- [About Dotstory](https://dotstory.io/about): why organic and paid work best as one team, who is behind the work, how onboarding and reporting work, and common questions
-- [Contact](https://dotstory.io/contact): email hello@dotstory.io; replies within one business day
+- [About Dotstory](https://dotstory.io/about): positioning, four-step process (understand, strategize, execute, measure and optimize), experience, and FAQs
+- [Contact](https://dotstory.io/contact): email hello@dotstory.io
 
 ## Key facts
-- 3.2x average pipeline growth within two quarters
-- 47% lower cost per lead on average
-- 156M impressions and reach in the past year
-- 100+ growing tech companies worked with
-- Kickoff to launch in two to three weeks; weekly reporting and a monthly strategic review
+- Services: AEO & GEO content, AI visibility, personal branding, ghostwriting, programmatic marketing, lead generation
+- Note: no agency can guarantee a particular ranking or recommendation from an AI platform
