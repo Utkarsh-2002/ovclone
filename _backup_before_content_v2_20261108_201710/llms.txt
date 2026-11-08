@@ -1,0 +1,14 @@
+# Dotstory
+
+> Dotstory is a growth-focused marketing agency helping B2B technology companies, SaaS businesses and brands get found, generate leads and grow. It combines AEO and GEO content, AI visibility, personal branding, ghostwriting, programmatic marketing and lead generation. It aims to work with clients across the US, UK, UAE and Europe.
+
+## Services
+- [Services](https://dotstory.io/services): AEO & GEO content, AI visibility, personal branding, ghostwriting, programmatic marketing, lead generation
+
+## Company
+- [About Dotstory](https://dotstory.io/about): positioning, four-step process (understand, strategize, execute, measure and optimize), experience, and FAQs
+- [Contact](https://dotstory.io/contact): email hello@dotstory.io
+
+## Key facts
+- Services: AEO & GEO content, AI visibility, personal branding, ghostwriting, programmatic marketing, lead generation
+- Note: no agency can guarantee a particular ranking or recommendation from an AI platform
